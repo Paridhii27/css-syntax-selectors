@@ -1,13 +1,13 @@
 body {
-  color: brown;
+  color: pink;
 }
 
 h1 {
-  color: red;
+  color: green;
 }
 
 .quote {
-  color: gray;
+  color: blue;
 }
 
 .quote.narrator {
